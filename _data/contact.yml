@@ -2,19 +2,16 @@
 -
   type: links
   icon: 'fa-solid fa-link'
-  url:  'https://l.technotim.live/links'
+  url:  'https://luffysenpai.space'
 -
-  type: twitter
-  icon: 'fa-brands fa-x-twitter'
-  url: 'https://l.technotim.live/twitter'
-# -
-#   type: youtube
-#   icon: 'fab fa-youtube'
-#   url: 'https://l.technotim.live/subscribe'
-# -
-#   type: twitch
-#   icon: 'fab fa-twitch'
-#   url: 'https://l.technotim.live/twitch'
+  type: instagram
+  icon: 'fa-brands fa-instagram'
+  url: 'https://instagram.com/luffyxxsenpai'
+#/home/luffy/Downloads/favicon_package_v0.16/android-chrome-192x192.png /home/luffy/Downloads/favicon_package_v0.16/android-chrome-256x256.png /home/luffy/Downloads/favicon_package_v0.16/apple-touch-icon.png /home/luffy/Downloads/favicon_package_v0.16/favicon.ico /home/luffy/Downloads/favicon_package_v0.16/favicon-16x16.png /home/luffy/Downloads/favicon_package_v0.16/favicon-32x32.png /home/luffy/Downloads/favicon_package_v0.16/mstile-150x150.png /home/luffy/Downloads/favicon_package_v0.16/safari-pinned-tab.svg -
+-
+   type: youtube
+   icon: 'fab fa-youtube'
+   url: 'https://youtube.com/@luffyxxsensi'
 # -
 #   type: discord
 #   icon: 'fab fa-discord'
@@ -22,37 +19,9 @@
 -
   type: github-custom
   icon: 'fab fa-github'
-  url: 'https://l.technotim.live/github'
+  url: 'https://github.com/luffyxxsenpai'
 # -
 #   type: linkedin
 #   icon: 'fab fa-linkedin'
 #   url:  'https://l.technotim.live/linkedin'
 # -
-#   type: mastodon
-#   icon: 'fab fa-mastodon'
-#   url:  'https://l.technotim.live/mastodon'  # Fill with your Mastodon account page, rel="me" will be applied for verification
-# -
-#   type: tiktok
-#   icon: 'fab fa-tiktok'
-#   url:  'https://l.technotim.live/tiktok'
-# -
-#   type: facebook
-#   icon: 'fab fa-facebook'
-#   url:  'https://l.technotim.live/facebook'
-# -
-#   type: patreon
-#   icon: 'fab fa-patreon'
-#   url: 'https://l.technotim.live/patreon'
--
-  type: rss
-  icon: 'fas fa-rss'
-  noblank: true
-
-#   type: email
-#   icon: 'fas fa-envelope'
-#   noblank: true            # open link in current tab
-
-# Uncomment and complete the url below to enable more contact options
-#   type: stack-overflow
-#   icon: 'fab fa-stack-overflow'
-#   url:  ''                  # Fill with your stackoverflow homepage
