@@ -17,5 +17,4 @@ this is notes collection area cause i fucking always forget how to tech stuffs. 
 [Instagram](https://www.instagram.com/luffyxxsenpai/) <br>
 [YouTube](https://www.youtube.com/@luffyxxsensei)
 
-<img src="/assets/img/pics/about2.gif" alt="cats" width="300"/>
                     
