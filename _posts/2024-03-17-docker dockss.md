@@ -8,4 +8,4 @@ tags: docker , noob
 
 # DOCKER IS COOOL
 
-docker is a ....
+docker is a ..
